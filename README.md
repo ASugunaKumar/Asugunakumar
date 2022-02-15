@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhishek_SugunaKumar
 - 👀 I’m particularly interested in Artificial Intelligence and Machine Learning, also any field of Computer science in general. 
-- 🌱 I’m currently doing postgraduate study in Computer Science (Artificial Intelligence)
+- 🌱 I’m currently doing postgraduation in Computer Science (Artificial Intelligence)
 - 📫 How to reach me - Email: abhishsweet@gmail.com, Mobile - +447594987294
 
 <!---
