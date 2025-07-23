@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ASugunaKumar](https://github.com/ASugunaKumar)
 
-- 📫 How to reach me **Abhisheksugukumar@gmail.com**, **+44 7594987294**
+- 📫 How to reach me **Abhisheksugukumar@gmail.com** and **+44 7594987294**
 - 📽️ To view my Projects please refer to my other repositories (Please click here: https://github.com/za18abf?tab=repositories)
 
 
