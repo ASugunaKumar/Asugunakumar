@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Suguna Kumar</h1>
-<h3 align="center">An AI Engineer with hands-on experience designing neural network architecture.</h3>
+<h3 align="center">Aspiring ML/AI Engineer | AI Training Specialist at Outlier.ai | Specializing in Generative AI Model Training</h3>
 
 - 🔭 I’m currently working on [AI Chatbot](https://github.com/ASugunaKumar/AI-Chatbot)
 
